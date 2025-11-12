@@ -1,0 +1,51 @@
+body {
+  background: #f8fafc;
+  margin: 20px;
+  font-family: Arial, sans-serif;
+  color: #1f2937;
+}
+
+header {
+  background: #0f172a;
+  color: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+nav a {
+  color: #bfdbfe;
+  margin-right: 12px;
+  text-decoration: none;
+}
+
+section {
+  background: white;
+  padding: 16px;
+  margin-top: 12px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+}
+
+img {
+  width: 300px;
+  height: auto;
+  border-radius: 6px;
+  display: block;
+  margin: 10px auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 12px;
+}
+
+th, td {
+  border: 1px solid #e2e8f0;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background: #e6eef8;
+}
